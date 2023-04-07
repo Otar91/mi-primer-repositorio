@@ -1,2 +1,2 @@
-# mi-primer-repositorio-github.
+# mi-primer-REDME.
 Mi primer repositorio para el curso freeCodeCamp.
